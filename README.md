@@ -3,12 +3,19 @@
 > https://akash-chauhan-07.github.io/Calculator/
 
 🌐 Introducing our New Web Calculator! 💻🔢
+
 ✅ Simplify calculations with our user-friendly interface.
+
 ✅ Handle basic to advanced functions effortlessly.
+
 ✅ Accessible from anywhere, anytime.
+
 ✅ Save time with instant, accurate results.
+
 🔗 [https://lnkd.in/dRRPKney] 🔗
+
 ➡️ Free to use with no hidden costs.
+
 🧮 Try this Web Calculator today and experience effortless calculations!
 
 A simple JavaScript Calculator made by [Akash Chauhan](https://github.com/akash-chauhan-07)
