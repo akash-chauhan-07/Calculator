@@ -5,7 +5,7 @@
 A simple JavaScript Calculator made by [Akash Chauhan](https://github.com/akash-chauhan-07)
 
 ## Tools Used 🛠️
-* <b>GitHub Pages</b> - To host my static website (HTML, CSS, JS).
+* <b>GitHub Pages</b> - (HTML, CSS, JS).
 
 ## Contributing 💡
 #### Step 1
