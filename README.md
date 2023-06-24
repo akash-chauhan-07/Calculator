@@ -1,6 +1,6 @@
 # [Simple Javascript Calculator](https://github.com/akash-chauhan-07/Calculator) 
 
-#Link :- (https://akash-chauhan-07.github.io/Calculator/)
+> https://akash-chauhan-07.github.io/Calculator/
 
 A simple JavaScript Calculator made by [Akash Chauhan](https://github.com/akash-chauhan-07)
 
