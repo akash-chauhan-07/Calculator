@@ -1,6 +1,6 @@
 # [Simple Javascript Calculator](https://github.com/akash-chauhan-07/Calculator) 
 
-> https://akash-chauhan-07.github.io/Calculator/
+> https://akashc-hub.github.io/Calculator/
 
 🌐 Introducing our New Web Calculator! 💻🔢
 
