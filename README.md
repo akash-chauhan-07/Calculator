@@ -8,7 +8,7 @@
 
 ✅ Handle basic to advanced functions effortlessly.
 
-✅ Accessible from anywhere, anytime.
+✅ Accessible from anywhere and anytime.
 
 ✅ Save time with instant, accurate results.
 
